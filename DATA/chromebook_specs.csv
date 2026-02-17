@@ -1,2 +1,2 @@
-Model                  PRICE          Rating     Batterylife 
-Dell 3180 chromebook   30 - 60 USD    3.7        10 hours 
+Model,PRICE,Rating,Batterylife 
+Dell 3180 chromebook,30 - 60 USD,3.7,10 hours 
